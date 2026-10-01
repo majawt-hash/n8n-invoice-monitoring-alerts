@@ -19,7 +19,7 @@ graph TD
     L --> M[Aggregate Alerts for Email]
     M --> N[Generate HTML Email Template]
     N --> O[Gmail API: Send Approval / Alert Email]
-'''
+```
 ## 📌 Problem Biznesowy
 Ręczne weryfikowanie i przepisywanie danych z dziesiątek faktur za energię i usługi operacyjne dla 12 podmiotów generuje wysokie ryzyko błędów oraz opóźnienia w wykrywaniu nieprawidłowości w zużyciu energii (PPE) i przekroczeniach budżetowych.
 
